@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Deepak Jha - Prod Owner"
     email: "{cipher}69766a7c2daf99b22f8026a0498048c173d530507bb1def85971f9417b96e552ac0c332f24acce772c9b4e472e33fcbd"
