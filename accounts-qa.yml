@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Deepak Jha - QA Lead"
+    email: "deepakjha2206qa@gmail.com"
+  onCallSupport:
+    - (555) 555-1444
+    - (555) 523-2222
